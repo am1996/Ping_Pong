@@ -1,0 +1,6 @@
+{
+  "name": "SpinCourt Ping Pong",
+  "description": "Fast-paced 2D tournament ping pong game with offline single-player AI, real-time Wi-Fi multiplayer, and Android APK / PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
